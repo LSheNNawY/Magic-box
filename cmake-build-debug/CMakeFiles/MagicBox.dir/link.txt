@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/MagicBox.dir/main.c.o  -o MagicBox 
